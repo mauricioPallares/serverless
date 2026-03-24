@@ -118,7 +118,7 @@ El frontend consume:
 
 - `https://imqtyyspi3.execute-api.us-east-2.amazonaws.com/default/poli`
 
-Para cambiarlo, edita la constante `API_URL` en `index.html`.
+Para cambiarlo, editar la constante `API_URL` en `index.html`.
 
 ### Despliegue del frontend
 
@@ -130,33 +130,6 @@ El frontend se desplego usando AWS Amplify (Amplify Hosting), que publica el sit
 - AWS credentials configuradas (si ejecutas backend local con acceso real a DynamoDB)
 - Tabla DynamoDB existente: `dataset-poli-table`
 
-## Ejecutar frontend localmente
-
-Puedes abrir `index.html` directo, pero se recomienda servidor local.
-
-Ejemplo con Python:
-
-```bash
-python3 -m http.server 8080
-```
-
-Luego abre:
-
-- `http://localhost:8080/index.html`
-
-## Probar backend localmente (invocacion simple)
-
-Ejemplo rapido desde Node (sin framework), suponiendo que tienes credenciales AWS validas:
-
-```bash
-node -e "import('./index.mjs').then(async ({handler}) => { const r = await handler({ queryStringParameters: { page: '1' } }); console.log(r); })"
-```
-
-Busqueda por nombre:
-
-```bash
-node -e "import('./index.mjs').then(async ({handler}) => { const r = await handler({ queryStringParameters: { University_Name: 'University of Oxford' } }); console.log(r); })"
-```
 
 ## Flujo de datos
 
