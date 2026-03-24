@@ -1,0 +1,101 @@
+Position,University_Name,Location,Established_Year,Total_Students,Number_of_Campuses,Programs_Offered,University_Type,Total_Faculty,Campus_Area_Acres
+1,University of Oxford,"Cambridge, Switzerland",1250,19628,3,427,Public,5843,6167
+2,Columbia University,"Stanford, China",1432,7082,1,97,Public,2205,4239
+3,University of Michigan,"Cambridge, China",1203,51925,11,409,Private,2105,3779
+4,University of Edinburgh,"Singapore, USA",1777,57810,3,407,Private,3087,2376
+5,University of Cambridge,"London, Switzerland",1104,11078,7,99,Private,7242,2917
+6,University of Michigan,"Singapore, USA",1747,35108,9,113,Private,945,4622
+7,UCL,"New York, China",1906,28700,10,148,Public,675,5517
+8,Imperial College London,"Ann Arbor, Switzerland",1081,20256,14,101,Private,2577,3814
+9,Princeton University,"Oxford, Switzerland",1363,18730,11,186,Public,5290,5301
+10,California Institute of Technology,"Beijing, UK",1167,35294,7,188,Public,5908,2756
+11,Stanford University,"London, USA",1824,25673,7,187,Public,2028,7580
+12,University of Edinburgh,"Philadelphia, Switzerland",1217,47954,8,252,Private,1470,2269
+13,University of Cambridge,"London, China",1551,22219,12,349,Private,7654,4880
+14,Cornell University,"Zurich, UK",1141,38392,8,96,Public,7354,998
+15,University of Cambridge,"New York, UK",1811,49596,7,355,Public,3452,3226
+16,University of Michigan,"Princeton, China",1257,41256,14,55,Public,5884,7348
+17,Columbia University,"Ann Arbor, Switzerland",1787,47006,6,107,Private,3861,1395
+18,Yale University,"Cambridge, Switzerland",1995,37806,13,141,Public,7431,5222
+19,UCL,"New York, China",1623,18035,3,241,Public,4718,7911
+20,Peking University,"Cambridge, China",1331,37021,1,107,Private,7498,6913
+21,UCL,"London, USA",1246,42182,2,93,Private,6984,666
+22,Columbia University,"Ann Arbor, UK",1131,48237,8,331,Public,2471,4422
+23,University of Michigan,"Chicago, UK",1951,40343,13,423,Public,6140,2653
+24,Cornell University,"New York, Switzerland",1448,38919,8,111,Public,2140,624
+25,National University of Singapore,"Cambridge, China",1567,20080,10,162,Public,881,5898
+26,Stanford University,"London, USA",1927,7058,14,219,Public,4511,2049
+27,University of Chicago,"New York, Singapore",1219,40339,3,420,Private,2290,6527
+28,Tsinghua University,"Ann Arbor, Singapore",1194,11181,2,387,Private,3202,3569
+29,University of Pennsylvania,"Princeton, USA",1689,47824,11,100,Public,3598,6065
+30,National University of Singapore,"Ann Arbor, USA",1254,17556,4,324,Private,1448,3556
+31,California Institute of Technology,"Singapore, Singapore",1255,9940,8,463,Public,714,5442
+32,Columbia University,"Cambridge, USA",1948,54385,14,171,Public,3629,4078
+33,Tsinghua University,"London, Singapore",1924,8842,3,244,Public,3498,2272
+34,Yale University,"Singapore, Singapore",1713,52874,13,334,Private,1568,1655
+35,UCL,"London, USA",1593,53217,9,81,Private,768,510
+36,University of Edinburgh,"Princeton, China",1941,39807,3,79,Public,7274,1622
+37,Harvard University,"Edinburgh, USA",1691,20414,7,111,Public,5042,4970
+38,Stanford University,"Edinburgh, USA",1429,48081,10,339,Private,7957,2236
+39,ETH Zurich,"New York, Switzerland",1244,22407,7,117,Private,4045,2690
+40,Harvard University,"Cambridge, Singapore",1636,41896,2,87,Public,4444,2272
+41,University of Cambridge,"Zurich, USA",1900,21009,6,195,Public,3889,6930
+42,Columbia University,"Philadelphia, Switzerland",1626,57894,11,320,Public,5771,6793
+43,Columbia University,"Singapore, USA",1961,13800,5,109,Public,6381,4632
+44,University of Cambridge,"Singapore, Switzerland",1619,18803,12,225,Public,5931,5295
+45,University of Chicago,"Beijing, Singapore",1257,8329,2,374,Private,7094,2366
+46,Stanford University,"Cambridge, Switzerland",1789,13573,11,184,Public,6372,3719
+47,Columbia University,"Philadelphia, Singapore",1574,5633,2,88,Public,4769,395
+48,Princeton University,"Edinburgh, China",1151,33166,3,71,Private,3287,7464
+49,Stanford University,"Zurich, UK",1698,21353,11,102,Private,6690,4686
+50,University of Pennsylvania,"Edinburgh, UK",1947,20514,14,133,Public,7520,3477
+51,Massachusetts Institute of Technology,"Oxford, Switzerland",1801,31982,13,392,Public,2485,1404
+52,University of Oxford,"Chicago, USA",1879,35847,4,152,Private,3164,2600
+53,Imperial College London,"London, USA",1675,17656,7,218,Private,7380,668
+54,University of Chicago,"Zurich, China",1409,49532,14,324,Private,7994,326
+55,University of Oxford,"Singapore, UK",1594,22397,1,105,Private,3131,6068
+56,National University of Singapore,"Chicago, China",1523,12578,7,345,Public,2386,463
+57,University of Pennsylvania,"Cambridge, China",1947,57855,9,401,Public,3283,3633
+58,Harvard University,"New York, Switzerland",1638,25572,11,484,Public,6196,7473
+59,UCL,"Beijing, Switzerland",1682,31764,6,256,Private,4841,1142
+60,ETH Zurich,"Chicago, Singapore",1693,54029,15,139,Private,3626,4588
+61,Massachusetts Institute of Technology,"Singapore, Switzerland",1215,33173,13,346,Private,4109,3719
+62,Yale University,"New York, UK",1523,36010,13,457,Public,5697,794
+63,UCL,"Beijing, China",1343,11120,14,434,Public,5811,2642
+64,Imperial College London,"Ann Arbor, UK",1150,6600,1,175,Private,5307,7061
+65,Harvard University,"Princeton, Singapore",1907,46272,10,149,Private,4349,3373
+66,Imperial College London,"Oxford, USA",1914,54215,14,444,Public,6676,3582
+67,Imperial College London,"Oxford, China",1475,8291,9,177,Public,4039,1192
+68,Yale University,"New York, China",1572,44023,6,436,Private,5318,6776
+69,Peking University,"Chicago, China",1456,15430,12,491,Private,3986,2223
+70,Imperial College London,"New York, Switzerland",1784,55965,9,298,Public,2549,3703
+71,Harvard University,"Philadelphia, Switzerland",1240,22807,6,213,Public,1433,1335
+72,Imperial College London,"Chicago, UK",1723,19021,2,262,Private,3010,4545
+73,Yale University,"Chicago, USA",1211,59584,7,249,Public,7318,7314
+74,University of Edinburgh,"Chicago, Singapore",1006,28052,5,435,Private,7291,7404
+75,University of Pennsylvania,"Beijing, China",1819,44534,15,162,Private,2097,2335
+76,University of Pennsylvania,"Princeton, USA",1398,27028,11,397,Private,6232,1452
+77,Yale University,"Oxford, China",1546,6767,15,251,Public,987,5365
+78,University of Pennsylvania,"Oxford, Singapore",1186,8295,5,244,Private,2033,3824
+79,National University of Singapore,"Zurich, Singapore",1284,54283,14,265,Private,7139,770
+80,Tsinghua University,"Cambridge, China",1053,27935,4,382,Public,6699,7942
+81,Stanford University,"Ann Arbor, USA",1972,21205,4,479,Public,5389,1348
+82,Imperial College London,"Oxford, Singapore",1685,12496,10,161,Private,6030,2199
+83,Princeton University,"Oxford, China",1621,54016,12,108,Public,2848,985
+84,University of Edinburgh,"Cambridge, Switzerland",1589,49390,15,242,Private,6157,1724
+85,Harvard University,"Edinburgh, UK",1104,50691,13,204,Public,6822,4736
+86,Stanford University,"Zurich, China",1438,48353,6,85,Private,403,7059
+87,University of Pennsylvania,"Princeton, USA",1443,28736,11,474,Private,6094,1353
+88,University of Pennsylvania,"Oxford, China",1988,47628,5,365,Private,4108,3668
+89,University of Edinburgh,"Singapore, Switzerland",1872,21088,14,94,Private,7522,3792
+90,Imperial College London,"Ann Arbor, Singapore",1583,44998,11,244,Private,535,4149
+91,National University of Singapore,"Oxford, Singapore",1217,28253,13,182,Private,2590,7311
+92,University of Michigan,"Philadelphia, Switzerland",1569,5665,9,147,Public,2277,5998
+93,University of Pennsylvania,"Princeton, China",1776,20749,12,293,Private,3971,6595
+94,Massachusetts Institute of Technology,"Stanford, Switzerland",1226,31502,12,174,Private,5739,4864
+95,Princeton University,"Princeton, China",1543,27528,7,431,Private,3182,5857
+96,Yale University,"Singapore, Switzerland",1257,20108,2,419,Public,2884,1079
+97,Columbia University,"Ann Arbor, UK",1196,19180,12,297,Private,6235,4929
+98,Peking University,"Edinburgh, Switzerland",1102,59567,4,201,Public,3256,1569
+99,UCL,"Cambridge, China",1129,22977,1,77,Private,6013,7833
+100,University of Cambridge,"New York, Singapore",1105,5803,10,195,Private,4221,3708
